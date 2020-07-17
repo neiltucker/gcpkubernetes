@@ -1,0 +1,16 @@
+### Demo Links:  GCP-430
+
+Building Small Containers:  Sandeep Dinesh
+https://www.youtube.com/watch?v=wGz_cbtCiEA&list=WL&index=5&t=0s
+
+Top 3 ways to run your Containers on Google Cloud:  Alexis Moussine-Pouchkine
+https://www.youtube.com/watch?v=jh0fPT-AWwM&list=WL&index=5
+
+High Availability for Stateful GKE Workloads
+https://www.youtube.com/watch?v=rRZtZX0PDFc&list=WL&index=6
+
+Monitoring services with Stackdriver:  (Stack Doctor)
+https://www.youtube.com/watch?v=7hhuoPZurl0&list=WL&index=8
+
+Kubeflow: Machine Learning on Kubernetes (Yufeng Guo)
+https://www.youtube.com/watch?v=HBxyLnEzyhw&list=WL&index=10
