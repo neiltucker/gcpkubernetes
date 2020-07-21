@@ -1,8 +1,5 @@
 ### Demo Links:  GCP-430
 
-Building Small Containers:  Sandeep Dinesh
-https://www.youtube.com/watch?v=wGz_cbtCiEA&list=WL&index=5&t=0s
-
 Top 3 ways to run your Containers on Google Cloud:  Alexis Moussine-Pouchkine
 https://www.youtube.com/watch?v=jh0fPT-AWwM&list=WL&index=5
 
@@ -14,12 +11,6 @@ https://www.youtube.com/watch?v=7hhuoPZurl0&list=WL&index=8
 
 Kubeflow: Machine Learning on Kubernetes (Yufeng Guo)
 https://www.youtube.com/watch?v=HBxyLnEzyhw&list=WL&index=10
-
-Upgrading your Cluster with Zero Downtime:  Sandeep Dinesh
-https://www.youtube.com/watch?v=ajbC1yTW2x0
-
-Continuous Integration and Continuous Delivery with Google Cloud
-https://www.youtube.com/watch?v=fNSqg6BgVvs
 
 Automated Deployments using Spinnaker
 https://www.youtube.com/watch?v=DQIu373gSKU&list=WL&index=18&t=0s
